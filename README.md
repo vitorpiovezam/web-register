@@ -4,6 +4,8 @@ This is my project, designed to meet the needs of a small company in São Paulo.
 
 It is a system of registration of third companies, which divides them between effective and secondary, with functions of searches and filters.
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/EtAjsxe0geI/0.jpg)](https://www.youtube.com/watch?v=EtAjsxe0geI)
+
 ## Getting Started
 
 The project was developed using HTML, CSS, Bootstrap, PHP and Javascript.
