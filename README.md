@@ -12,7 +12,7 @@ I used a MySQL database to store and manage cadastral data, in which the stored 
 
 The original table was removed for obvious reasons. 
 
-I left a localhost in the code, called u372422229_db, and a .sql ready to be exported, with fake information just for testing.
+I left in this repo a .sql ready to be exported to your localhost, with fake information just for testing.
 
 ### Prerequisites
 
