@@ -1,0 +1,96 @@
+*{
+    font-family: font-family: 'Roboto', sans-serif;
+}
+
+
+/*
+COLLOR PALLETE
+    
+#e7717d - ligh salmon
+#c2cado - live gray
+#c2b9b0 - ligth brown
+#7e685a - strong brown
+#afg275 - ligth green
+
+*/
+body{
+    background:#efefef;
+}
+
+.navbar{
+    margin-bottom: 30px;
+}
+
+.navbar-brand{
+    color: white !important; 
+}
+
+.navbar-color{
+    background: #e7717d;
+    color: white;
+}
+
+.bolder{
+    font-weight: bolder;
+}
+
+li{
+    list-style-type: none;
+}
+
+li{
+    margin-top: 13px;
+}
+
+.menuOpcao{
+    padding:25px;
+    background: #7e685a;
+}
+
+.titulo{
+    font-size: 18px;
+    color: white;
+    margin-bottom: 10px;
+    font-weight: bolder;
+    font-weight: bolder;
+}
+
+.top-buffer { 
+    margin-top:40px !important;
+}
+
+.option{
+    margin-top: 10px !important;
+    padding:10px;
+}
+
+select{
+    padding:10px;
+}
+
+.option-space{
+    margin-bottom: 15px;
+    padding: 5px;
+    color: black !important;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+.option-space :hover{
+    text-decoration: none;
+    font-style: normal;
+    font-size: 16.8px;
+}
+
+.btn{
+    background-color: #2dad69 !important;
+}
+
+input{
+    padding: 10px !important;
+}
+
+.form-group{
+    border: 0 !important;
+}
+
